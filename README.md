@@ -15,9 +15,9 @@ As Mint is also provide investment portfolio management services, offering robo 
 
 
 ## Resources:
-[Wikipedia]: https://en.wikipedia.org/wiki/Intuit_Mint
-[Investopedia]: https://www.investopedia.com/articles/personal-finance/082216/how-mintcom-makes-money-intu.asp
-[Stackshare]: https://stackshare.io/mint/mint
-[Crunchbase]: https://www.crunchbase.com/organization/haveamint
-[Software Testing Help]: https://www.softwaretestinghelp.com/mint-alternatives
-[Fintech Magazine]: https://fintechmagazine.com/financial-services-finserv/new-fintech-trends-transforming-the-personal-finance-space
+[Wikipedia](https://en.wikipedia.org/wiki/Intuit_Mint)
+[Investopedia](https://www.investopedia.com/articles/personal-finance/082216/how-mintcom-makes-money-intu.asp)
+[Stackshare](https://stackshare.io/mint/mint)
+[Crunchbase](https://www.crunchbase.com/organization/haveamint)
+[Software Testing Help](https://www.softwaretestinghelp.com/mint-alternatives)
+[Fintech Magazine](https://fintechmagazine.com/financial-services-finserv/new-fintech-trends-transforming-the-personal-finance-space)
